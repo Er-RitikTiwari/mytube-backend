@@ -1,11 +1,12 @@
 {
   "name": "chai",
   "version": "1.0.0",
-  "description": "",
+  "description": "a backend of a youtube clone app",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "ritik",
   "license": "ISC"
 }
